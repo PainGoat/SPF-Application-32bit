@@ -6,7 +6,7 @@ os : 32-bit Windows \
 author : Nguyen Anh Quan
 
 
-1. Clicking the green button "Code" and and choose "Download Zip"
+1. Click the green button "Code" and and choose "Download Zip"
 2. Extract file "SPF Application (32-bit).rar"
 3. Read file "Instruction.txt"
 4. Run file "SPF Application (32-bit).exe" 
