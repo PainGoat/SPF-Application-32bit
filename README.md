@@ -7,11 +7,11 @@ author : Nguyen Anh Quan
 
 
 1. Clicking the green "Code" button and and choose "Download Zip"
-2. Extract file "SPF Application.rar"
+2. Extract file "SPF Application (32-bit).rar"
 3. Read file "Instruction.txt"
-4. Run file "SPF Application.exe" 
+4. Run file "SPF Application (32-bit).exe" 
 
-$ 64-bit version : https://github.com/MiG21-5121/SPF-Application
+$ 64-bit version : https://github.com/MiG21-5121/SPF-Application \
 @ Contact me : https://www.facebook.com/vn.anhquan
 
 Thank you !
