@@ -1,7 +1,7 @@
 # SPF-Application-32bit
 SHORTED PATH FINDER ON MATRIX for 32-bit Windows 
 
-version : 1.0.21 (beta version) \
+version : 1.0.21 (beta) \
 os : 32-bit Windows \
 author : Nguyen Anh Quan
 
